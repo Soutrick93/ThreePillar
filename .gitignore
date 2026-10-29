@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.mat
+*.mex*
+slprj/
+
+# Inputs and outputs (not tracked; download data from public sources)
+data/*
+!data/README.md
+results/*
+!results/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
