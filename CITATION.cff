@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ThreePillar: a mechanism benchmark for anticancer drug-synergy prediction"
+authors:
+  - family-names: Das
+    given-names: Soutrick
+    affiliation: "School of Computer Science and Artificial Intelligence, SR University, Warangal, India"
+    email: soutrickd@gmail.com
+repository-code: "https://github.com/Soutrick93/ThreePillar"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-29"
